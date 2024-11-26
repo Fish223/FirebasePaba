@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214747278847",
+    "project_id": "fir-coba-cc9c4",
+    "storage_bucket": "fir-coba-cc9c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214747278847:android:d7c318a007f3fd21c94bca",
+        "android_client_info": {
+          "package_name": "fish.latpaba.firebasecoba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BXNIPhlnbQz7vXlhUDSlREED5N1jf5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
